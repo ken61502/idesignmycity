@@ -1,0 +1,24 @@
+// Place all the styles related to the LoginPage controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@media screen and (max-width: 480px){
+  body{
+    background-image: image-url("login-background.png");
+    background-repear: no-repeat;
+    background-size: 100%;
+  }
+
+  .container{
+    text-align: center;
+  }
+
+  #app-name{
+    color: white;
+  }
+
+  #login{
+    background-color: #E8E8E8;
+    border-radius: 10px;
+  }
+}

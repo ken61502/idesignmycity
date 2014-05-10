@@ -1,4 +1,7 @@
 Idesignmycity::Application.routes.draw do
+
+  root 'login_page#login'
+  #get "login_page/login"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
