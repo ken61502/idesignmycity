@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+
+#box {
+    width:  100px;
+    height: 100px;
+    background-color: red;
+}
+.draw-icon-container {
+	width: 100%;
+	height: 480px;
+}
+.draw-icon-canvas {
+	width: 80%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+}
+// Place all the styles related to the draw-icon controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
